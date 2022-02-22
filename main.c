@@ -25,6 +25,9 @@ int main(void){
     printf("\nAportación de Master 2");
 
     goto PunterosDobles;
+
+    printf("\nAportación de Developer 1");
+
     goto ReturnFuncion;
     goto ContinueBrake;
 
