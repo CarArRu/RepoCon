@@ -26,6 +26,9 @@ int main(void){
 
     goto PunterosDobles;
     goto ReturnFuncion;
+
+    printf("\nAportación de Developer 2");
+
     goto ContinueBrake;
 
     printf("\nStatic");
