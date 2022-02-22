@@ -28,6 +28,7 @@ int main(void){
     goto ReturnFuncion;
 
     printf("\nAportación de Developer 2");
+    printf("\nAportación de Developer 2");
 
     goto ContinueBrake;
 
