@@ -29,6 +29,10 @@ int main(void){
     printf("\nAportación de Developer 1");
 
     goto ReturnFuncion;
+
+    printf("\nAportación de Developer 2");
+    printf("\nAportación de Developer 2");
+
     goto ContinueBrake;
 
     printf("\nStatic");
